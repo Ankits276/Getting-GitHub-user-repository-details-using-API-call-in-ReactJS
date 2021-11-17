@@ -1,0 +1,46 @@
+.border {
+  border: 2px solid;
+  height: 350px;
+  width: 350px;
+  display: contents;
+}
+.repo_link {
+  color: #008000;
+  padding-bottom: 20px;
+}
+.repodetails {
+  text-align: center;
+  margin: 10px;
+  padding: 2px;
+  border: 1px solid;
+  height: 300px;
+  width: 300px;
+  background-color: white;
+}
+.repodetails_2 {
+  /* text-align: center; */
+  margin: 10px;
+  padding: 2px;
+  border: 1px solid;
+  height: 300px;
+  width: 300px;
+  overflow: scroll;
+  overflow-x: hidden;
+  background-color: white;
+}
+.displayflex {
+  display: flex;
+  justify-content: center;
+}
+.search_btn {
+  margin-bottom: 10px;
+  text-align: center;
+}
+.repo_img {
+  width: 50px;
+  height: 50px;
+}
+.h1 {
+  text-align: center;
+  font-size: 20px;
+}
